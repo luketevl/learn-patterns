@@ -90,7 +90,7 @@ class MyMediator(){
 - Passam os dados para o componentes **stateful**
 - **Compõe a interação entre componentes stateful**
 - Sabem como atualizar o estado da aplicação.
-[!Stateless](https://i.imgur.com/sQtzmVP.png)
+![Stateless](https://i.imgur.com/sQtzmVP.png)
 
 # FLUX
 > [Veja aqui](https://github.com/luketevl/architecture-flux "Repositório")
