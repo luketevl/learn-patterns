@@ -1,6 +1,10 @@
 # learn-patterns
 Patterns
 
+# Links 
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book
+
+
 # Injeção de Dependência
 - Diminui acoplamento
 - Inversão de controle
@@ -96,3 +100,14 @@ class MyMediator(){
 > [Veja aqui](https://github.com/luketevl/architecture-flux "Repositório")
 # REDUX
 > [Veja aqui](https://github.com/luketevl/architecture-redux "Repositório")
+
+# Observer Pattern
+> Vamos imaginar que você precisa atualizar vários elementos simultaneamente quando ocorre algum evento.
+- **Subject** 
+  - Elemento que **é escutado**
+  - Contém a lista de **observer**, com facilidade de adicionar e remover
+- **Subscribers** (Assinturas)
+  - Elementos que "ouvem"
+- **Observer** (Observam)
+  - Reagem a uma alteração de um valor
+  - Quem atualiza
