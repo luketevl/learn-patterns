@@ -6,7 +6,7 @@
 > Representa a ideia de uma coleção invócavel de valores ou eventos futuros
 
 # Observer
-> É uma coleção de **calbacks** que sabe como ouvir os falores fornecidos pelo **Observable**
+> É uma coleção de **calbacks** que sabe como ouvir os valores fornecidos pelo **Observable**
 
 # Subscription
 > É a execução de um **Observable**, util para **cancelar a execução**
